@@ -2271,7 +2271,7 @@ __metadata:
     "@babel/runtime": ^7.19.0
     "@polkadot/hw-ledger": 10.1.8-3-x
     "@polkadot/util": 10.1.8-3-x
-    "@substrate/ss58-registry": ^1.28.0
+    "@substrate/ss58-registry": ^1.29.0
   languageName: unknown
   linkType: soft
 
@@ -2617,10 +2617,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@substrate/ss58-registry@npm:^1.28.0":
-  version: 1.28.0
-  resolution: "@substrate/ss58-registry@npm:1.28.0"
-  checksum: 7fe9a4cb4d56ed65b8fea8ff63b0e82683c980523c8f8f4cc543a3fc19a9a04a70cd26097ac243f344b8c4fd710dc1e1b47c234046b79faf10d33ba81e8d0639
+"@substrate/ss58-registry@npm:^1.29.0":
+  version: 1.29.0
+  resolution: "@substrate/ss58-registry@npm:1.29.0"
+  checksum: 75993e5d3cace064adfb7b7e35ed567be674e786c0b111ef199ebfa9eec84c8457e3b3d20046fc8af3b4cc2267ae1bddfc6f6e854ddc5de66f7008332a8b4071
   languageName: node
   linkType: hard
 
